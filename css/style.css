@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.main-header{
+	position: relative;
+	background-image: url(../img/banner.jpg);
+	background-size: cover;
+}
+
+.background-overline{
+	background: rgba(48, 51, 107, .7);
+}
+
+.form-control{
+	border-radius:0; 
+}
+
+input[type="text"]{
+	border-radius: 0;
+}
+
+.team, footer{
+	background:#30336b; 
+}
+
+.panel h3{
+	cursor: pointer;
+}
+
+.aviso{
+	background:url(../img/trabajando.png) fixed;
+	background-size: cover;
+}
